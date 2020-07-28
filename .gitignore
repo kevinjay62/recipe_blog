@@ -1,5 +1,6 @@
 # Created by https://www.gitignore.io, modified for use with CodeRed CMS.
 secrets.json
+database_dump
 #######################################
 ### Editors
 #######################################
